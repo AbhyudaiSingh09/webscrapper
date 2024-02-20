@@ -1,0 +1,17 @@
+This is a project to scrape data from the web and store the results in a text
+file and the SQLite database.
+
+The website https://finance.yahoo.com/trending-tickers lists extensive finance
+data. You have to write Python scripts/programs to collect the current prices for the following commodities: Crude Oil, Gold and Silver. Your program
+should store the commodity name and its corresponding price in a text file
+called commodity_prices.txt.
+
+In addition to the commodity_prices.txt file, the data should also be stored in an SQLite database called CommodityDatabase in the directory that your
+Jupyter Notebook code will be executed from. The CommodityDatabase
+should have a table called CommodityTable that contains the following
+columns and types:
+Ticker TEXT
+Price REAL
+Every execution of your program should create a new commodity_prices.txt
+and CommodityDatabase.db file in the directory (delete any existing files that
+you will create) that your Python script is located and run.
