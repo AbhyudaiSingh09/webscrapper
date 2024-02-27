@@ -10,6 +10,7 @@ For an interactive experience and to run the code directly in your browser, you 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
 
+
 ## Prerequisites
 
 Before running this script, ensure you have the following installed:
@@ -48,10 +49,8 @@ sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')
 To run the script, navigate to the script's directory and execute the following command:
 
 ```bash
-python script_name.py
+python webScraper.py
 ```
-
-Replace `script_name.py` with the actual name of your Python script.
 
 ## How It Works
 
@@ -73,4 +72,3 @@ The script outputs:
 Ensure you have all the necessary permissions and dependencies installed. If you encounter any issues with the Selenium WebDriver, check that the version of the WebDriver matches your Chrome browser's version.
 ```
 
-By including this section in your README.md or other Markdown documents, viewers will immediately see the option to explore and run your notebook in Google Colab, offering a convenient and accessible way to interact with your project.
