@@ -1,8 +1,15 @@
+To update your Markdown file with the Google Colab link and a message encouraging viewers to check the code on Google Colab, you can add the following section to your document. I've also inserted the Colab link directly below the "Overview" section for visibility:
+
+```markdown
 # Commodity Prices Scraper
 
 ## Overview
 
 This project contains a Python script for scraping current commodity prices (Crude Oil, Gold, and Silver) from Yahoo Finance's trending tickers page. It utilizes Selenium for web automation and SQLite for data storage.
+
+For an interactive experience and to run the code directly in your browser, you are encouraged to view this project on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
 
 ## Prerequisites
 
@@ -65,3 +72,6 @@ The script outputs:
 ## Troubleshooting
 
 Ensure you have all the necessary permissions and dependencies installed. If you encounter any issues with the Selenium WebDriver, check that the version of the WebDriver matches your Chrome browser's version.
+```
+
+By including this section in your README.md or other Markdown documents, viewers will immediately see the option to explore and run your notebook in Google Colab, offering a convenient and accessible way to interact with your project.
