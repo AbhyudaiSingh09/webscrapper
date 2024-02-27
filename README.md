@@ -8,7 +8,8 @@ This project contains a Python script for scraping current commodity prices (Cru
 
 For an interactive experience and to run the code directly in your browser, you are encouraged to view this project on Google Colab:
 
-[![Open In Colab](<img src="https://colab.research.google.com/assets/colab-badge.svg"/>)](https://colab.research.google.com/github/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
+
 
 ## Prerequisites
 
