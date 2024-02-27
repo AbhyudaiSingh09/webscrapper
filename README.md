@@ -10,6 +10,10 @@ For an interactive experience and to run the code directly in your browser, you 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
 
+[View the webScrapper Notebook](https://github.com/Axs7941/webscrapper/blob/master/webScrapper.ipynb)
+
+
+
 
 ## Prerequisites
 
