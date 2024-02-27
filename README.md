@@ -1,4 +1,3 @@
-To update your Markdown file with the Google Colab link and a message encouraging viewers to check the code on Google Colab, you can add the following section to your document. I've also inserted the Colab link directly below the "Overview" section for visibility:
 
 ```markdown
 # Commodity Prices Scraper
