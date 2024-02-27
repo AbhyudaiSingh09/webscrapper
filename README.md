@@ -1,5 +1,5 @@
 
-```markdown
+
 # Commodity Prices Scraper
 
 ## Overview
@@ -74,5 +74,5 @@ The script outputs:
 ## Troubleshooting
 
 Ensure you have all the necessary permissions and dependencies installed. If you encounter any issues with the Selenium WebDriver, check that the version of the WebDriver matches your Chrome browser's version.
-```
+
 
